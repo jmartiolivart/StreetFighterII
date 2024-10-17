@@ -1,0 +1,13 @@
+﻿  Application.cpp
+  Log.cpp
+  Main.cpp
+  ModuleAudio.cpp
+  ModuleFadeToBlack.cpp
+  ModuleInput.cpp
+  ModulePlayer.cpp
+  ModuleRender.cpp
+  ModuleSceneKen.cpp
+  ModuleTextures.cpp
+  ModuleWindow.cpp
+  Generating Code...
+  SDL Game.vcxproj -> C:\Users\rubena\Desktop\SFII\Debug\SDL Game - Master 1 Handout.exe
