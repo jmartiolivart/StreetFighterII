@@ -30,3 +30,38 @@
 *.exe
 *.out
 *.app
+.vs/ProjectSettings.json
+.vs/SDL Game/FileContentIndex/b1d0e2b3-deda-4866-96b8-d24ba258b7ad.vsidx
+.vs/SDL Game/FileContentIndex/f97ac7f1-8f93-434a-99c8-a446ecba05b3.vsidx
+.vs/SDL Game/FileContentIndex/read.lock
+.vs/SDL Game/v17/.suo
+.vs/SDL Game/v17/Browse.VC.db
+.vs/SDL Game/v17/Browse.VC.db-shm
+.vs/SDL Game/v17/Browse.VC.db-wal
+.vs/SDL Game/v17/Browse.VC.opendb
+.vs/SDL Game/v17/DocumentLayout.backup.json
+.vs/SDL Game/v17/DocumentLayout.json
+.vs/SDL Game/v17/ipch/AutoPCH/12b157c51644008b/LOG.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/32b43f17fdb7d3a3/APPLICATION.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/33a1c2477e62f0cd/MODULERENDER.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/48bedb43313ccb64/MAIN.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/49cf6947a9bf4f35/MODULESCENEKEN.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/4a1cc3d69b261529/MODULETEXTURES.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/5d0ac3f07c26a85d/MODULEINPUT.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/7bf3d4c00bc9e728/MODULEPLAYER.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/bf028604f9e2e60b/MODULEAUDIO.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/d01b4ab690b85e23/MODULESCENEKEN.ipch
+.vs/SDL Game/v17/ipch/AutoPCH/e6869402047d873d/MODULEWINDOW.ipch
+.vs/SDL Game/v17/Solution.VC.db
+.vs/slnx.sqlite
+.vs/StreetFighterII/FileContentIndex/e168f0c2-5ad1-462b-a536-2020719e18d3.vsidx
+.vs/StreetFighterII/v17/.wsuo
+.vs/StreetFighterII/v17/Browse.VC.db
+.vs/StreetFighterII/v17/DocumentLayout.backup.json
+.vs/StreetFighterII/v17/DocumentLayout.json
+.vs/StreetFighterII/v17/ipch/AutoPCH/79dc30f8fed03df7/MAIN.ipch
+.vs/VSWorkspaceState.json
+.vs/SDL Game/FileContentIndex/b1d0e2b3-deda-4866-96b8-d24ba258b7ad.vsidx
+.vs/SDL Game/FileContentIndex/read.lock
+.vs/SDL Game/v17/.suo
+.vs/SDL Game/v17/Browse.VC.db

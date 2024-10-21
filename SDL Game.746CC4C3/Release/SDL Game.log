@@ -1,0 +1,16 @@
+﻿  Application.cpp
+  Log.cpp
+  Main.cpp
+  ModuleAudio.cpp
+  ModuleFadeToBlack.cpp
+  ModuleInput.cpp
+  ModulePlayer.cpp
+  ModuleRender.cpp
+  ModuleSceneKen.cpp
+  ModuleTextures.cpp
+  ModuleWindow.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 280 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  SDL Game.vcxproj -> C:\Users\jmart\Desktop\Màster Videojocs\StreetFighterII\Release\SDL Game - Master 1 Handout.exe
