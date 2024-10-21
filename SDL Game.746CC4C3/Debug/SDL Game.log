@@ -1,0 +1,4 @@
+﻿  ModulePlayer.cpp
+C:\Users\jmart\Desktop\Màster Videojocs\StreetFighterII\ModulePlayer.cpp(76,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\jmart\Desktop\Màster Videojocs\StreetFighterII\ModulePlayer.cpp(76,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  SDL Game.vcxproj -> C:\Users\jmart\Desktop\Màster Videojocs\StreetFighterII\Debug\SDL Game - Master 1 Handout.exe
